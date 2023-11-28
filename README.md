@@ -1,6 +1,6 @@
 # SC2006 Syntax Symphony - Park Proximity
 
-## Contributors List:
+## Contributors List
 Chee Han, Michael, Aaron, Arjun, Pranav, Owen
 
 ## Intro
